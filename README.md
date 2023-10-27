@@ -1,7 +1,7 @@
 <p  align="center"><img src = "Ilustración.jpg" ></p>
 
 <h1 align="center">Hi 👋, My name is Fabiana</h1>
-<h3 align="center">I am a FullStackWeb developer from Argentina, always eager to learn new technologies to give my best in every challenge.</h3>
+<h3 align="center">I am a FullStackWeb developer from Argentina. My passion is creating stunning and functional online experiences...</h3>
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: **<a href="mailto:francabuchieri19@gmail.com">francabuchieri19@gmail.com</a>** 📧 
