@@ -1,4 +1,4 @@
-<p  align="center"><img src = "codeffb.jpg"></p>
+<p  align="center"><img src = ></p>
 
 <h1 align="center">Hi 👋, My name is Fabiana</h1>
 <h3 align="center">I am a FullStackWeb developer from Argentina, always eager to learn new technologies to give my best in every challenge.</h3>
