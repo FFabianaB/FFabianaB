@@ -1,7 +1,7 @@
 <p  align="center"><img src = "FFB.gif" ></p>
 
 <h1 align="center">Hi 👋, My name is Fabiana</h1>
-<h3 align="center">I am a FullStackWeb developer from Argentina. My passion is creating stunning and functional online experiences...</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me: **<a href="mailto:francabuchieri19@gmail.com">francabuchieri19@gmail.com</a>** 📧 
@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a></p>
 
-<h2 align="center">💼Please visit my portfolio💼</h2>
+
 
 
 
