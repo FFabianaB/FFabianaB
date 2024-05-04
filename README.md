@@ -1,4 +1,4 @@
-<p  align="center"><img src = "FFB.gif" ></p>
+
 
 <h1 align="center">Hi 👋, My name is Fabiana</h1>
 
