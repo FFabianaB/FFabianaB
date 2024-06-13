@@ -6,7 +6,9 @@
 <h3 align="center">Skill Set</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,php,spring,npm,git,bootstrap,sass&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,java,php,spring,npm&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 
