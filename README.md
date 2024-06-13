@@ -7,7 +7,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,react,java,php,spring,npm&perline=3" />
+   </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
