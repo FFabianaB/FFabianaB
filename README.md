@@ -23,14 +23,14 @@
 
 <h3 align="center">Datebase</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
   </a>
 </p>
 
 <h3 align="center">Editing Software </h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=ps,ai,figma" />
   </a>
 </p>
