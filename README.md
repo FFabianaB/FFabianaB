@@ -6,17 +6,17 @@
 
 <h3 align="center">Skill Set</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=nodejs,react,java,php,spring,npm&perline=3" />
    </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
@@ -38,16 +38,15 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> francabuchieri19@gmail.com
+<p align="left">
   <a href="https://linkedin.com/in/ffabianab">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
-<p align="left">
   <a href="mailto:francabuchieri19@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
 
 
 
